@@ -1,0 +1,8 @@
+post# See https://github.com/anishans7/BookMyShow/ for more about ignoring files.
+
+package-lock.json
+
+# dependencies
+node_modules/*
+
+
